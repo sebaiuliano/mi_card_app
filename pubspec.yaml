@@ -19,7 +19,7 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - images/gohan2.jpg
+    - images/seba.jpg
 
   fonts:
     - family: Pacifico
